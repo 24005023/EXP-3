@@ -2,7 +2,7 @@
 EXPT NO: 3				STAIR CASE WIRING                     
 
  
-AIM
+## AIM
  To control the status of the given lamp by using two–way switches. 
 APPARATUS REQUIRED:
 
@@ -20,7 +20,7 @@ Quantity
 7	Round block	-	1 No.
 
 
-Theory:
+## Theory:
 •	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
 •	The light point is provided between first and last stair at an adequate location and height if the light is switched on by the lower switch. It can be switched off by the switch at the top or vice versa.
 •	The circuit can be used at the places like bed room where the person may  not  have  to  travel for switching off the light to the place from where the light is switched on.
@@ -39,12 +39,26 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
-	
-Cross connection: CIRCUIT DIAGRAM:
+## Direct connection:
 
-Tabulation:2
+<img width="1025" height="719" alt="image" src="https://github.com/user-attachments/assets/4edd8a51-808b-4ac2-9024-4b6e6df99d1c" />
 
-RESULT:
+## Circuit Diagram & Tabulation:1
+
+![a1](https://github.com/user-attachments/assets/136c4bac-d870-4b8c-ac04-c46a3599035a)
+
+![a2](https://github.com/user-attachments/assets/29e5e911-10ce-497f-a389-74c218ff7bc5)
+
+### Cross connection: 
+
+<img width="1030" height="579" alt="image" src="https://github.com/user-attachments/assets/ee304626-009b-467c-8bb6-41877700d190" />
+
+## Circuit Diagram & Tabulation:2
+
+![a3](https://github.com/user-attachments/assets/e45f77a0-f257-4d79-8250-6a44c0517419)
+
+![a4](https://github.com/user-attachments/assets/a3a9d0ae-1890-4c9c-bec6-610ad7192705)
+
+## RESULT:
+
 Thus the staircase wiring is connected and tested.
